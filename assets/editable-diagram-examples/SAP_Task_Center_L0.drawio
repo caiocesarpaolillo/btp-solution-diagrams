@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T11:55:18.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="ezkH3qfNCwaZ_Dk3pjUS" version="24.2.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-13T11:55:24.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="igslOxS2_F3HmAeQOFE5" version="24.2.5" type="github" pages="5">
   <diagram id="yyJCg45JmMv-zP9A26xm" name="L0 - Case 1">
     <mxGraphModel dx="2411" dy="1396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -149,9 +149,6 @@
         </mxCell>
         <mxCell id="onFfVel__EsI0B-ufCWo-14" value="&lt;font color=&quot;#1a2733&quot; face=&quot;Arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Legado&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="160" y="239" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="onFfVel__EsI0B-ufCWo-24" value="&lt;font face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Custo estimado de R$ 49.000,00 por mês&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="110" y="540" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="onFfVel__EsI0B-ufCWo-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="360" y="127.26" width="430" height="302.74" as="geometry" />
