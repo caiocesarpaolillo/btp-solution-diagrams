@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T11:55:24.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="igslOxS2_F3HmAeQOFE5" version="24.2.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-13T13:07:58.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="WntcOx7YJMiVAEGofKE3" version="24.2.5" type="github" pages="5">
   <diagram id="yyJCg45JmMv-zP9A26xm" name="L0 - Case 1">
     <mxGraphModel dx="2411" dy="1396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -98,6 +98,9 @@
               <mxPoint x="-710" y="-520" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7j2fmuFYRXJv8EHl1zYW-2" value="&lt;font face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Corrigir icone e nome do cloud integration&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="-300" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
